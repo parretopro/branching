@@ -1,2 +1,0 @@
-qa only
-Created new branch qa! 
